@@ -10,7 +10,7 @@ generator-webapp-slip
 先全局安装`webapp-slip`这个generator:
 
 ```
-$ npm install -g generator-slip
+$ npm install -g generator-webapp-slip
 ```
 
 然后创建项目实例：
