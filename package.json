@@ -1,0 +1,9 @@
+{
+  "name": "webapp-slip",
+  "version": "0.1.0",
+  "description": "Create a webapp with slip.js",
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^0.17.3"
+  }
+}

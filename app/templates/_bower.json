@@ -1,0 +1,8 @@
+{
+  "name": "webapp-slip",
+  "version": "0.0.1",
+  "dependencies": {
+    "slip.binnng.js": "*",
+    "reset-css": "*"
+  }
+}

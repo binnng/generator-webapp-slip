@@ -1,0 +1,35 @@
+.slip-item{
+	position: relative;
+}
+
+/* 首屏的小箭头 */
+#slip-arrow{
+	position: absolute;
+	bottom: 15px;
+	left: 0;
+	right: 0;
+	height: 15px;
+	opacity: .4;
+	-webkit-transition: all .4s ease-in;
+	transition: all .4s ease-in;
+}
+
+#slip-arrow:before,
+#slip-arrow:after {
+	content: "";
+	display: block;
+	background: #000;
+	width: 2px;
+	height: 14px;
+	position: absolute;
+	left: 50%;
+	bottom: 0;
+	-webkit-transform: rotate(-55deg);
+	-webkit-transform-origin: 100% 100%;
+}
+#slip-arrow:after {
+	-webkit-transform: rotate(55deg);
+	-webkit-transform-origin: 0 100%;
+}
+
+/* 这里开始你的CSS代码 */
