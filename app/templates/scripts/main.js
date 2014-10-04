@@ -1,7 +1,5 @@
 (function() {
 
-  // 这里开始你的JS代码
-
   // 需要首页的小箭头提示么？
   var isNeedTip = false;
 
