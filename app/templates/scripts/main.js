@@ -1,7 +1,7 @@
 (function() {
 
   // 需要首页的小箭头提示么？
-  var isNeedTip = false;
+  var isNeedTip = true;
 
   // 定制你的webapp
   var mySlip = {
