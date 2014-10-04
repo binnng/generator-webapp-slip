@@ -1,5 +1,5 @@
 {
-  "name": "webapp-slip",
+  "name": "generator-webapp-slip",
   "version": "0.1.0",
   "description": "Create a webapp with slip.js",
   "keywords": ["yeoman-generator"],
