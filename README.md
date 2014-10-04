@@ -1,6 +1,8 @@
 generator-webapp-slip
 =====================
 
+[主页](http://binnng.github.io/generator-webapp-slip)
+
 一个基于slip.js的快速创建滑动网页的yeoman生成器
 
 使用方法：
